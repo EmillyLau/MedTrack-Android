@@ -89,17 +89,6 @@ Jetpack Compose UI
 - **Network:** Retrofit/OpenFDA and Gemini API integration
 - **Utilities:** Authentication/session management and CSV database seeding
 
-## 📱 Screenshots
-
-*Add screenshots of the application here.*
-
-Recommended screenshots:
-- Home dashboard and medication list
-- Medication management and daily tracking
-- MedCoach drug information and AI tips
-- Drug interaction warning dialog
-- Clinician dashboard
-
 ## 🚀 Getting Started
 
 ### Prerequisites
